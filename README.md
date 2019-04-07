@@ -1,2 +1,2 @@
 # testReadfile_go
-test something
+test read/write and some strings APIs in go
